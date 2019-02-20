@@ -1,0 +1,20 @@
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Meloche, Johnathan (s278639)\Unit 1 (Problem Solving)\HelloWorldInt\HelloWorldInt\bin\Debug\HelloWorldInt.exe.config
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Meloche, Johnathan (s278639)\Unit 1 (Problem Solving)\HelloWorldInt\HelloWorldInt\bin\Debug\HelloWorldInt.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Meloche, Johnathan (s278639)\Unit 1 (Problem Solving)\HelloWorldInt\HelloWorldInt\bin\Debug\HelloWorldInt.pdb
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Meloche, Johnathan (s278639)\Unit 1 (Problem Solving)\HelloWorldInt\HelloWorldInt\obj\Debug\HelloWorldInt.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Meloche, Johnathan (s278639)\Unit 1 (Problem Solving)\HelloWorldInt\HelloWorldInt\obj\Debug\HelloWorldInt.frmHelloWorld.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Meloche, Johnathan (s278639)\Unit 1 (Problem Solving)\HelloWorldInt\HelloWorldInt\obj\Debug\HelloWorldInt.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Meloche, Johnathan (s278639)\Unit 1 (Problem Solving)\HelloWorldInt\HelloWorldInt\obj\Debug\HelloWorldInt.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Meloche, Johnathan (s278639)\Unit 1 (Problem Solving)\HelloWorldInt\HelloWorldInt\obj\Debug\HelloWorldInt.csproj.CoreCompileInputs.cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Meloche, Johnathan (s278639)\Unit 1 (Problem Solving)\HelloWorldInt\HelloWorldInt\obj\Debug\HelloWorldInt.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Meloche, Johnathan (s278639)\Unit 1 (Problem Solving)\HelloWorldInt\HelloWorldInt\obj\Debug\HelloWorldInt.pdb
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Meloche, Johnathan (s278639)\Introduction\HelloWorldInt\HelloWorldInt\obj\Debug\HelloWorldInt.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Meloche, Johnathan (s278639)\Introduction\HelloWorldInt\HelloWorldInt\obj\Debug\HelloWorldInt.frmHelloWorld.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Meloche, Johnathan (s278639)\Introduction\HelloWorldInt\HelloWorldInt\obj\Debug\HelloWorldInt.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Meloche, Johnathan (s278639)\Introduction\HelloWorldInt\HelloWorldInt\obj\Debug\HelloWorldInt.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Meloche, Johnathan (s278639)\Introduction\HelloWorldInt\HelloWorldInt\obj\Debug\HelloWorldInt.csproj.CoreCompileInputs.cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Meloche, Johnathan (s278639)\Introduction\HelloWorldInt\HelloWorldInt\obj\Debug\HelloWorldInt.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Meloche, Johnathan (s278639)\Introduction\HelloWorldInt\HelloWorldInt\obj\Debug\HelloWorldInt.pdb
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Meloche, Johnathan (s278639)\Introduction\HelloWorldInt\HelloWorldInt\bin\Debug\HelloWorldInt.exe.config
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Meloche, Johnathan (s278639)\Introduction\HelloWorldInt\HelloWorldInt\bin\Debug\HelloWorldInt.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Meloche, Johnathan (s278639)\Introduction\HelloWorldInt\HelloWorldInt\bin\Debug\HelloWorldInt.pdb

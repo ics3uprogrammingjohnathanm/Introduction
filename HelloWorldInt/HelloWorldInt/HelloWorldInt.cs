@@ -16,7 +16,7 @@ namespace HelloWorldInt
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new HelloWorldIntForm());
+            Application.Run(new frmHelloWorld());
         }
     }
 }
