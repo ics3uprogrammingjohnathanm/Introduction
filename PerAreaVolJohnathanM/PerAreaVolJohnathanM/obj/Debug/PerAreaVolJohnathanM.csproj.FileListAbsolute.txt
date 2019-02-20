@@ -1,0 +1,10 @@
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Meloche, Johnathan (s278639)\Introduction\PerAreaVolJohnathanM\PerAreaVolJohnathanM\bin\Debug\PerAreaVolJohnathanM.exe.config
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Meloche, Johnathan (s278639)\Introduction\PerAreaVolJohnathanM\PerAreaVolJohnathanM\bin\Debug\PerAreaVolJohnathanM.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Meloche, Johnathan (s278639)\Introduction\PerAreaVolJohnathanM\PerAreaVolJohnathanM\bin\Debug\PerAreaVolJohnathanM.pdb
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Meloche, Johnathan (s278639)\Introduction\PerAreaVolJohnathanM\PerAreaVolJohnathanM\obj\Debug\PerAreaVolJohnathanM.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Meloche, Johnathan (s278639)\Introduction\PerAreaVolJohnathanM\PerAreaVolJohnathanM\obj\Debug\PerAreaVolJohnathanM.frmPerAreaVol.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Meloche, Johnathan (s278639)\Introduction\PerAreaVolJohnathanM\PerAreaVolJohnathanM\obj\Debug\PerAreaVolJohnathanM.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Meloche, Johnathan (s278639)\Introduction\PerAreaVolJohnathanM\PerAreaVolJohnathanM\obj\Debug\PerAreaVolJohnathanM.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Meloche, Johnathan (s278639)\Introduction\PerAreaVolJohnathanM\PerAreaVolJohnathanM\obj\Debug\PerAreaVolJohnathanM.csproj.CoreCompileInputs.cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Meloche, Johnathan (s278639)\Introduction\PerAreaVolJohnathanM\PerAreaVolJohnathanM\obj\Debug\PerAreaVolJohnathanM.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Meloche, Johnathan (s278639)\Introduction\PerAreaVolJohnathanM\PerAreaVolJohnathanM\obj\Debug\PerAreaVolJohnathanM.pdb
