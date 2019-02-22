@@ -7,7 +7,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+/*
+ * Created by: Johnathan Meloche
+ * Created on: 02/20/19
+ * Created for: ICS3U Programming
+ * Daily Assignment – Day #5 - Hello World International
+ * This program chnages the text of the label when its respective radio button is clicked
+*/
 namespace HelloWorldInt
 {
     public partial class frmHelloWorld : Form
